@@ -18,16 +18,10 @@ For the backend:
 # Getting Started 
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
-# Prerequisites
-PHP and Composer should be installed:
-This is how to install it if you're using Windows:
-```
-php composer-setup.php --install-dir=bin --filename=composer
-```
 
 # How To Use
 
-### You need to download Android Studio or vscode in order to open the quality on it You need to download dart and flutter inside Android Studio You need to create an Emulator and then you can run the application on it
+#### You need to download Android Studio or vscode in order to open the quality on it You need to download dart and flutter inside Android Studio You need to create an Emulator and then you can run the application on it
 
 
 ### Below is the logic of our work:
